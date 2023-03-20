@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @Gaysha1337
-- 👀 I’m interested in: Python (Kivy, Web-scraping, ML (haven't started learning yet), Data science), Web Dev, Game Dev
-- 🌱 I’m currently learning: CS, App Dev (Flutter, etc.)
-- 💞️ I’m looking to collaborate on: Nothing yet (need to finish IB)
+- 👀 I’m interested in: 
+  - Web Dev
+  - Game Dev
+  - Reverse Engineering
+  - Web-scraping
+  - ML/AI
+  - Data science
+- 🌱 I’m currently a 2nd year Bsc. Student @ the VU Amsterdam
+- 💞️ I’m looking to collaborate on: Open source projects
 - 📫 How to reach me: Github or email me
 
 <!---

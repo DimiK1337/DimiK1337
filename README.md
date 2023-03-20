@@ -9,7 +9,7 @@ I am a young self-taught developer who is currently pursing a Bsc. in CompSci.
   - Web-scraping
   - ML/AI
   - Data science
-- 🌱 I’m currently a 2nd year Bsc. Student @ the VU Amsterdam
+- 🌱 I’m currently a 2nd year Bsc. Student @VU Amsterdam
 - 💞️ I’m looking to collaborate on: Open source projects
 - 📫 How to reach me: Github or email me
 

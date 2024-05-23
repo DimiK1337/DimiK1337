@@ -1,4 +1,4 @@
-👋 Hi, I’m @Gaysha1337
+👋 Hi, I’m @DimiK1337
 I am a young self-taught developer who is currently pursing a Bsc. in CompSci.
 
 

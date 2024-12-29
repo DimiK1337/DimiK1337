@@ -1,7 +1,6 @@
 👋 Hi, I’m @DimiK1337
 I am a young self-taught developer who is currently pursing a Bsc. in CompSci.
 
-
 - 👀 I’m interested in: 
   - Web Dev
   - Game Dev
@@ -9,7 +8,7 @@ I am a young self-taught developer who is currently pursing a Bsc. in CompSci.
   - Web-scraping
   - ML/AI
   - Data science
-- 🌱 I’m currently a 2nd year Bsc. Student @VU Amsterdam
+- 🌱 I’m currently a 1st year Msc. Student @VU Amsterdam
 - 💞️ I’m looking to collaborate on: Open source projects
 - 📫 How to reach me: Github or email me
 
